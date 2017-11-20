@@ -77,7 +77,7 @@ body{
 }
 
 /* Add some padding inside the card container */
-.container {
+.container_card {
     padding: 2px 16px;
 }
 .btn {
