@@ -77,7 +77,7 @@ body{
 }
 
 /* Add some padding inside the card container */
-.container_card {
+.container {
     padding: 2px 16px;
 }
 .btn {
@@ -89,5 +89,12 @@ body{
     text-align: center;
     cursor: pointer;
 	position:center;
+
+}
+.bigHr {
+    background-color: black;
+    color: black;
+    border: solid 2px black;
+    height: 5px;
 
 }
